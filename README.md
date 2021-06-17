@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @financej
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Minjun Jang
+- 👀 I’m interested in big data, artificial intelligence
+- 🌱 I’m currently learning python and C
+- 💞️ I’m looking to collaborate on AI or DB
+- 📫 You can reach me at crulangle@naver.com
 
 <!---
 financej/financej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
