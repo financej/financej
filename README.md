@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minjun Jang
 - 👀 I’m interested in big data, artificial intelligence
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI or DB
 - 📫 You can reach me at crulangle@naver.com
 
