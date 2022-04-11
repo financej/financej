@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minjun Jang
 - 👀 I’m interested in big data, artificial intelligence
-- 🌱 I’m currently learning REACT, SPRING
+- 🌱 I’m currently learning REACT, SPRING BOOT, PYTHON, FLASK, SQLALCHEMY
 - 💞️ I’m looking to collaborate on WEB or DB
 - 📫 You can reach me at crulangle@naver.com
 
